@@ -1,3 +1,8 @@
-GetAccelerate();
-SetAccelertate(time, type);
+#define linear 0
+#define sType 1
+
+Float time;
+
+time GetAccelerate();
+Bool SetAccelertate(time, type);
 
