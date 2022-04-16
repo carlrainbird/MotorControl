@@ -1,1 +1,3 @@
-Accelerate(time);
+GetAccelerate();
+SetAccelertate(time, type);
+
